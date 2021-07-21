@@ -1,2 +1,4 @@
 # hello-world
-HI! NEW IDEAS.
+
+May the new ideas be with you!
+
