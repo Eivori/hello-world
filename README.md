@@ -1,2 +1,2 @@
 # hello-world
-a description.
+HI! NEW IDEAS.
